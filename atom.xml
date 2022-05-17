@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>世界尽头</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2022-05-16T03:38:33.630Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>RagdoLL</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>New world and Say YaHalo!</title>
+    <link href="/2022/05/16/New-world-and-Say-YaHalo/"/>
+    <id>/2022/05/16/New-world-and-Say-YaHalo/</id>
+    <published>2022-05-16T03:38:09.000Z</published>
+    <updated>2022-05-16T03:38:33.630Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;了解你的捍卫者&quot;&gt;&lt;a href=&quot;#了解你的捍卫者&quot; class=&quot;headerlink&quot; title=&quot;了解你的捍卫者&quot;&gt;&lt;/a&gt;了解你的捍卫者&lt;/h1&gt;&lt;h1 id=&quot;Introducing-Your-Champion&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2022/05/16/hello-world/"/>
+    <id>/2022/05/16/hello-world/</id>
+    <published>2022-05-16T02:29:30.607Z</published>
+    <updated>2022-05-17T03:05:14.882Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
