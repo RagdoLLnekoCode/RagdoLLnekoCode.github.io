@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2022-08-07T08:50:52.003Z</updated>
+  <updated>2022-08-07T08:51:01.402Z</updated>
   <id>/</id>
   
   <author>
@@ -15,24 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Git 基本学习</title>
-    <link href="/2022/08/07/Git-%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0/"/>
-    <id>/2022/08/07/Git-基本学习/</id>
-    <published>2022-08-07T07:51:06.000Z</published>
-    <updated>2022-08-07T08:50:52.003Z</updated>
-    
-    <summary type="html">
-    
-      Git 学习笔记
-    
-    </summary>
-    
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>New world and Say YaHalo!</title>
@@ -48,6 +30,24 @@
     </summary>
     
       <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Git 基本学习</title>
+    <link href="/2022/08/07/Git-%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0/"/>
+    <id>/2022/08/07/Git-基本学习/</id>
+    <published>2022-08-07T07:51:06.000Z</published>
+    <updated>2022-08-07T08:50:52.003Z</updated>
+    
+    <summary type="html">
+    
+      Git 学习笔记
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
