@@ -69,15 +69,15 @@ function bot_ui_ini() {
             }).then(function () {
                 botui.message.add({
                     delay: 1500,
-                    content: "本来不想干这一行的，误报天坑志愿，当大三突然不当咸鱼时已经到要找实习了…各种原因选了这个方向（恼"
+                    content: "本来不想干这一行的，谁知道报了天坑志愿，当大三突然不当咸鱼时已经到要找实习的时候了…各种原因选了这个方向（恼"
                 }).then(function () {
                     botui.message.add({
                         delay: 1200,
-                        content: "事实上学的东西和现在做的毫不搭边，也相当于从零开始了"
+                        content: "事实上学的东西和现在做的毫不搭边，也相当于从零开始"
                     }).then(function () {
                         botui.message.add({
                             delay: 1500,
-                            content: "每天都在纠结要不要早下班（组内的包括导师好！！卷！！！   希望自己也能努力T T"
+                            content: "每天都在纠结要不要下早班（组内的包括导师好！！卷！！！   希望自己也能努力T T"
                         }).then(function () {
                             botui.message.add({
                                 delay: 1500,
@@ -106,7 +106,7 @@ function bot_ui_ini() {
         thirdpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "RagdoLL英文是布偶猫，一直想养一只 OvO"
+                content: "RagdoLL中文是布偶猫，一直想养一只 OvO"
             }).then(function () {
                 botui.action.button({
                     delay: 1500,
@@ -126,7 +126,7 @@ function bot_ui_ini() {
             }).then(function () {
                 botui.message.add({
                     delay: 1100,
-                    content: "我真的好想养一只！！(没钱T T，要上班也不敢养啊"
+                    content: "我真的好想养一只！！(没钱T T，而且要上班啊"
                 }).then(function () {
                     botui.action.button({
                         delay: 1500,
