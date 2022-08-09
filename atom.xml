@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2022-08-07T08:50:52.003Z</updated>
+  <updated>2022-08-09T17:06:28.170Z</updated>
   <id>/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="/2022/08/07/Git-%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0/"/>
     <id>/2022/08/07/Git-基本学习/</id>
     <published>2022-08-07T07:51:06.000Z</published>
-    <updated>2022-08-07T08:50:52.003Z</updated>
+    <updated>2022-08-09T17:06:28.170Z</updated>
     
     <summary type="html">
     
@@ -39,7 +39,7 @@
     <link href="/2022/08/07/New-world-and-Say-YaHalo/"/>
     <id>/2022/08/07/New-world-and-Say-YaHalo/</id>
     <published>2022-08-07T07:51:06.000Z</published>
-    <updated>2022-08-07T08:51:01.402Z</updated>
+    <updated>2022-08-09T17:08:19.641Z</updated>
     
     <summary type="html">
     
@@ -56,20 +56,16 @@
     <title>Hello World</title>
     <link href="/2022/05/16/hello-world/"/>
     <id>/2022/05/16/hello-world/</id>
-    <published>2022-05-16T02:29:30.607Z</published>
-    <updated>2022-05-17T03:05:14.882Z</updated>
+    <published>2022-05-16T07:51:06.000Z</published>
+    <updated>2022-08-09T17:13:05.432Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      新世界！
     
     </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
   </entry>
