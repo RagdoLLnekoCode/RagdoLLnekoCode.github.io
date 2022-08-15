@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2022-08-09T17:06:28.170Z</updated>
+  <updated>2022-08-15T14:10:21.450Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Git 基本学习</title>
-    <link href="/2022/08/07/Git-%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0/"/>
-    <id>/2022/08/07/Git-基本学习/</id>
-    <published>2022-08-07T07:51:06.000Z</published>
-    <updated>2022-08-09T17:06:28.170Z</updated>
+    <title>Linux DHT11 温湿度传感器 字符设备驱动</title>
+    <link href="/2022/08/15/Linux-DHT11-%E6%B8%A9%E6%B9%BF%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8-%E5%AD%97%E7%AC%A6%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8/"/>
+    <id>/2022/08/15/Linux-DHT11-温湿度传感器-字符设备驱动/</id>
+    <published>2022-08-15T14:00:24.000Z</published>
+    <updated>2022-08-15T14:10:21.450Z</updated>
     
     <summary type="html">
     
@@ -48,6 +48,24 @@
     </summary>
     
       <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Git 基本学习</title>
+    <link href="/2022/08/07/Git-%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0/"/>
+    <id>/2022/08/07/Git-基本学习/</id>
+    <published>2022-08-07T07:51:06.000Z</published>
+    <updated>2022-08-09T17:06:28.170Z</updated>
+    
+    <summary type="html">
+    
+      Git 学习笔记
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
